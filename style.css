@@ -1,0 +1,21 @@
+.navbar-custom {
+    background-color: #333;
+}
+.navbar-custom .navbar-brand,
+.navbar-custom .nav-link {
+    color: white;
+}
+.navbar-custom .nav-link:hover {
+    color: #ddd;
+}
+.navbar-custom .nav-item.icons {
+    margin: auto;
+    padding: 20px;
+}
+.navbar-custom .nav-item.icons a {
+    color: white;
+    padding: 4 50px;
+}
+.navbar-custom .nav-item.icons a:hover {
+    color: #ddd;
+}
